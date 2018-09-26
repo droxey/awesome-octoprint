@@ -1,4 +1,4 @@
-# awesome-octoprint
+# 🐙 awesome-octoprint
 
 A curated collection of awesome [Octoprint](http://www.octoprint.org) stuff.
 
